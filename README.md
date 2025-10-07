@@ -91,8 +91,7 @@ We can see that for softplus attention the memory requirement is linear in the s
 
 ### Changelog
 
-October 07, 2025
-    * Initial release
+October 07, 2025 * Initial release *
 
 ### Known issues
 
