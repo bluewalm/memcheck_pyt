@@ -70,18 +70,16 @@ python gradcheck.py
 ## Metrics (1x A100 40GB)
 
 |--------------------------------------------------|--------------------------------------------------|
-| ![seqlen1024](./images/sequence length=1024.png) | ![seqlen2048](./images/sequence length=2048.png) |
-|--------------------------------------------------|--------------------------------------------------|
-| ![seqlen4096](./images/sequence length=4096.png) | ![seqlen8192](./images/sequence length=8192.png) |
+| ![seqlen1024](https://github.com/bluewalm/memcheck_pyt/blob/master/images/sequence%20length%3D1024.png) | ![seqlen2048](https://github.com/bluewalm/memcheck_pyt/blob/master/images/sequence%20length%3D2048.png) |
+| ![seqlen4096](https://github.com/bluewalm/memcheck_pyt/blob/master/images/sequence%20length%3D4096.png) | ![seqlen8192](https://github.com/bluewalm/memcheck_pyt/blob/master/images/sequence%20length%3D8192.png) |
 |--------------------------------------------------|--------------------------------------------------|
 The above figures show how memory requirement changes in the token dimension. 
 As we can see, memory requirement is linear in the token dimension. 
 Furthermore, softplus attention is storing more intermediate results. 
 
 |---------------------------------------------|-----------------------------------------------|
-| ![dim128](./images/token dimension=128.png) | ![dim256](./images/token dimension=256.png)   |
-|---------------------------------------------|-----------------------------------------------|
-| ![dim512](./images/token dimension=512.png) | ![dim1024](./images/token dimension=1024.png) |
+| ![dim128](https://github.com/bluewalm/memcheck_pyt/blob/master/images/token%20dimension%3D128.png) | ![dim256](https://github.com/bluewalm/memcheck_pyt/blob/master/images/token%20dimension%3D256.png)   |
+| ![dim512](https://github.com/bluewalm/memcheck_pyt/blob/master/images/token%20dimension%3D512.png) | ![dim1024](https://github.com/bluewalm/memcheck_pyt/blob/master/images/token%20dimension%3D1024.png) |
 |---------------------------------------------|-----------------------------------------------|
 The above figures show how memory requirement changes in the sequence length. 
 We can see that for softplus attention the memory requirement is linear in the sequence length. 
