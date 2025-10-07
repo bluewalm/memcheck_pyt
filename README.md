@@ -72,7 +72,7 @@ python gradcheck.py
 |--------------------------------------------------|--------------------------------------------------|
 | ![seqlen1024](https://github.com/bluewalm/memcheck_pyt/blob/master/images/sequence%20length%3D1024.png) | ![seqlen2048](https://github.com/bluewalm/memcheck_pyt/blob/master/images/sequence%20length%3D2048.png) |
 | ![seqlen4096](https://github.com/bluewalm/memcheck_pyt/blob/master/images/sequence%20length%3D4096.png) | ![seqlen8192](https://github.com/bluewalm/memcheck_pyt/blob/master/images/sequence%20length%3D8192.png) |
-|--------------------------------------------------|--------------------------------------------------|
+
 The above figures show how memory requirement changes in the token dimension. 
 As we can see, memory requirement is linear in the token dimension. 
 Furthermore, softplus attention is storing more intermediate results. 
@@ -80,7 +80,7 @@ Furthermore, softplus attention is storing more intermediate results.
 |---------------------------------------------|-----------------------------------------------|
 | ![dim128](https://github.com/bluewalm/memcheck_pyt/blob/master/images/token%20dimension%3D128.png) | ![dim256](https://github.com/bluewalm/memcheck_pyt/blob/master/images/token%20dimension%3D256.png)   |
 | ![dim512](https://github.com/bluewalm/memcheck_pyt/blob/master/images/token%20dimension%3D512.png) | ![dim1024](https://github.com/bluewalm/memcheck_pyt/blob/master/images/token%20dimension%3D1024.png) |
-|---------------------------------------------|-----------------------------------------------|
+
 The above figures show how memory requirement changes in the sequence length. 
 We can see that for softplus attention the memory requirement is linear in the sequence length. 
 
