@@ -1,0 +1,1783 @@
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 512 kv_len = 512 dim = 32 heads = 8
+
+forward pass required 001054 MB of GPU memory
+backward pass required 002093 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 512 kv_len = 512 dim = 64 heads = 8
+
+forward pass required 001074 MB of GPU memory
+backward pass required 002121 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 512 kv_len = 512 dim = 128 heads = 8
+
+forward pass required 001114 MB of GPU memory
+backward pass required 002177 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 512 kv_len = 512 dim = 256 heads = 8
+
+forward pass required 001195 MB of GPU memory
+backward pass required 002290 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 512 kv_len = 512 dim = 512 heads = 8
+
+forward pass required 001358 MB of GPU memory
+backward pass required 002518 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 512 kv_len = 512 dim = 1024 heads = 8
+
+forward pass required 001690 MB of GPU memory
+backward pass required 002981 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 512 kv_len = 512 dim = 2048 heads = 8
+
+forward pass required 002634 MB of GPU memory
+backward pass required 003937 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 512 kv_len = 512 dim = 4096 heads = 8
+
+forward pass required 004874 MB of GPU memory
+backward pass required 005969 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 512 kv_len = 512 dim = 8192 heads = 8
+
+forward pass required 009738 MB of GPU memory
+backward pass required 012049 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 512 kv_len = 512 dim = 32 heads = 8
+
+forward pass required 000174 MB of GPU memory
+backward pass required 000301 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 512 kv_len = 512 dim = 64 heads = 8
+
+forward pass required 000194 MB of GPU memory
+backward pass required 000329 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 512 kv_len = 512 dim = 128 heads = 8
+
+forward pass required 000234 MB of GPU memory
+backward pass required 000385 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 512 kv_len = 512 dim = 256 heads = 8
+
+forward pass required 000314 MB of GPU memory
+backward pass required 000497 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 512 kv_len = 512 dim = 512 heads = 8
+
+forward pass required 000474 MB of GPU memory
+backward pass required 000721 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 512 kv_len = 512 dim = 1024 heads = 8
+
+forward pass required 000842 MB of GPU memory
+backward pass required 001233 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 512 kv_len = 512 dim = 2048 heads = 8
+
+forward pass required 001610 MB of GPU memory
+backward pass required 002385 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 512 kv_len = 512 dim = 4096 heads = 8
+
+forward pass required 003146 MB of GPU memory
+backward pass required 004689 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 512 kv_len = 512 dim = 8192 heads = 8
+
+forward pass required 006218 MB of GPU memory
+backward pass required 009297 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 512 kv_len = 512 dim = 32 core_dim = 32
+
+forward pass required 000025 MB of GPU memory
+backward pass required 000046 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 512 kv_len = 512 dim = 64 core_dim = 64
+
+forward pass required 000049 MB of GPU memory
+backward pass required 000091 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 512 kv_len = 512 dim = 128 core_dim = 128
+
+forward pass required 000097 MB of GPU memory
+backward pass required 000181 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 512 kv_len = 512 dim = 256 core_dim = 256
+
+forward pass required 000193 MB of GPU memory
+backward pass required 000361 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 512 kv_len = 512 dim = 512 core_dim = 512
+
+forward pass required 000385 MB of GPU memory
+backward pass required 000721 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 512 kv_len = 512 dim = 1024 core_dim = 1024
+
+forward pass required 000769 MB of GPU memory
+backward pass required 001441 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 512 kv_len = 512 dim = 2048 core_dim = 2048
+
+forward pass required 001538 MB of GPU memory
+backward pass required 002882 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 512 kv_len = 512 dim = 4096 core_dim = 4096
+
+forward pass required 003075 MB of GPU memory
+backward pass required 005763 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 512 kv_len = 512 dim = 8192 core_dim = 8192
+
+forward pass required 006149 MB of GPU memory
+backward pass required 011525 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 32 heads = 8
+
+forward pass required 004149 MB of GPU memory
+backward pass required 008265 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 64 heads = 8
+
+forward pass required 004189 MB of GPU memory
+backward pass required 008321 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 128 heads = 8
+
+forward pass required 004269 MB of GPU memory
+backward pass required 008433 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 256 heads = 8
+
+forward pass required 004430 MB of GPU memory
+backward pass required 008658 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 512 heads = 8
+
+forward pass required 004753 MB of GPU memory
+backward pass required 009110 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 1024 heads = 8
+
+forward pass required 005405 MB of GPU memory
+backward pass required 010021 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 2048 heads = 8
+
+forward pass required 006733 MB of GPU memory
+backward pass required 011873 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 4096 heads = 8
+
+forward pass required 010509 MB of GPU memory
+backward pass required 015697 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 8192 heads = 8
+
+forward pass required 019469 MB of GPU memory
+backward pass required 023825 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 32 heads = 8
+
+forward pass required 000629 MB of GPU memory
+backward pass required 001097 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 64 heads = 8
+
+forward pass required 000669 MB of GPU memory
+backward pass required 001153 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 128 heads = 8
+
+forward pass required 000749 MB of GPU memory
+backward pass required 001265 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 256 heads = 8
+
+forward pass required 000909 MB of GPU memory
+backward pass required 001489 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 512 heads = 8
+
+forward pass required 001229 MB of GPU memory
+backward pass required 001937 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 1024 heads = 8
+
+forward pass required 001869 MB of GPU memory
+backward pass required 002833 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 2048 heads = 8
+
+forward pass required 003341 MB of GPU memory
+backward pass required 004881 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 4096 heads = 8
+
+forward pass required 006413 MB of GPU memory
+backward pass required 009489 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 8192 heads = 8
+
+forward pass required 012557 MB of GPU memory
+backward pass required 018705 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 32 core_dim = 32
+
+forward pass required 000049 MB of GPU memory
+backward pass required 000091 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 64 core_dim = 64
+
+forward pass required 000097 MB of GPU memory
+backward pass required 000181 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 128 core_dim = 128
+
+forward pass required 000193 MB of GPU memory
+backward pass required 000361 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 256 core_dim = 256
+
+forward pass required 000385 MB of GPU memory
+backward pass required 000721 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 512 core_dim = 512
+
+forward pass required 000769 MB of GPU memory
+backward pass required 001441 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 1024 core_dim = 1024
+
+forward pass required 001537 MB of GPU memory
+backward pass required 002881 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 2048 core_dim = 2048
+
+forward pass required 003074 MB of GPU memory
+backward pass required 005762 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 4096 core_dim = 4096
+
+forward pass required 006147 MB of GPU memory
+backward pass required 011523 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 8192 core_dim = 8192
+
+forward pass required 012293 MB of GPU memory
+backward pass required 023045 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 32 heads = 8
+
+forward pass required 016489 MB of GPU memory
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 64 heads = 8
+
+forward pass required 016569 MB of GPU memory
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 128 heads = 8
+
+forward pass required 016729 MB of GPU memory
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 256 heads = 8
+
+forward pass required 017050 MB of GPU memory
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 512 heads = 8
+
+forward pass required 017693 MB of GPU memory
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 1024 heads = 8
+
+forward pass required 018985 MB of GPU memory
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 2048 heads = 8
+
+forward pass required 021593 MB of GPU memory
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 4096 heads = 8
+
+forward pass required 026905 MB of GPU memory
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 8192 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 32 heads = 8
+
+forward pass required 002409 MB of GPU memory
+backward pass required 004225 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 64 heads = 8
+
+forward pass required 002489 MB of GPU memory
+backward pass required 004337 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 128 heads = 8
+
+forward pass required 002649 MB of GPU memory
+backward pass required 004561 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 256 heads = 8
+
+forward pass required 002969 MB of GPU memory
+backward pass required 005009 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 512 heads = 8
+
+forward pass required 003609 MB of GPU memory
+backward pass required 005905 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 1024 heads = 8
+
+forward pass required 004889 MB of GPU memory
+backward pass required 007697 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 2048 heads = 8
+
+forward pass required 007449 MB of GPU memory
+backward pass required 011281 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 4096 heads = 8
+
+forward pass required 013337 MB of GPU memory
+backward pass required 019473 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 8192 heads = 8
+
+forward pass required 025625 MB of GPU memory
+error : out of GPU memory
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 32 core_dim = 32
+
+forward pass required 000097 MB of GPU memory
+backward pass required 000181 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 64 core_dim = 64
+
+forward pass required 000193 MB of GPU memory
+backward pass required 000361 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 128 core_dim = 128
+
+forward pass required 000385 MB of GPU memory
+backward pass required 000721 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 256 core_dim = 256
+
+forward pass required 000769 MB of GPU memory
+backward pass required 001441 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 512 core_dim = 512
+
+forward pass required 001537 MB of GPU memory
+backward pass required 002881 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 1024 core_dim = 1024
+
+forward pass required 003073 MB of GPU memory
+backward pass required 005762 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 2048 core_dim = 2048
+
+forward pass required 006146 MB of GPU memory
+backward pass required 011522 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 4096 core_dim = 4096
+
+forward pass required 012291 MB of GPU memory
+backward pass required 023043 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 8192 core_dim = 8192
+
+forward pass required 024581 MB of GPU memory
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 32 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 64 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 128 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 256 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 512 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 1024 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 2048 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 4096 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 8192 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 32 heads = 8
+
+forward pass required 009449 MB of GPU memory
+backward pass required 016625 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 64 heads = 8
+
+forward pass required 009609 MB of GPU memory
+backward pass required 016849 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 128 heads = 8
+
+forward pass required 009929 MB of GPU memory
+backward pass required 017297 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 256 heads = 8
+
+forward pass required 010569 MB of GPU memory
+backward pass required 018193 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 512 heads = 8
+
+forward pass required 011849 MB of GPU memory
+backward pass required 019985 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 1024 heads = 8
+
+forward pass required 014409 MB of GPU memory
+backward pass required 023569 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 2048 heads = 8
+
+forward pass required 019529 MB of GPU memory
+backward pass required 030737 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 4096 heads = 8
+
+forward pass required 029769 MB of GPU memory
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 8192 heads = 8
+
+error : out of GPU memory
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 32 core_dim = 32
+
+forward pass required 000194 MB of GPU memory
+backward pass required 000362 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 64 core_dim = 64
+
+forward pass required 000386 MB of GPU memory
+backward pass required 000722 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 128 core_dim = 128
+
+forward pass required 000770 MB of GPU memory
+backward pass required 001442 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 256 core_dim = 256
+
+forward pass required 001538 MB of GPU memory
+backward pass required 002882 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 512 core_dim = 512
+
+forward pass required 003074 MB of GPU memory
+backward pass required 005762 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 1024 core_dim = 1024
+
+forward pass required 006146 MB of GPU memory
+backward pass required 011522 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 2048 core_dim = 2048
+
+forward pass required 012290 MB of GPU memory
+backward pass required 023043 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 4096 core_dim = 4096
+
+forward pass required 024579 MB of GPU memory
+error : out of GPU memory
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 8192 core_dim = 8192
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 32 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 64 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 128 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 256 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 512 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 1024 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 2048 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 4096 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 8192 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 32 heads = 8
+
+forward pass required 037449 MB of GPU memory
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 64 heads = 8
+
+forward pass required 037769 MB of GPU memory
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 128 heads = 8
+
+forward pass required 038409 MB of GPU memory
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 256 heads = 8
+
+forward pass required 039689 MB of GPU memory
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 512 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 1024 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 2048 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 4096 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 8192 heads = 8
+
+error : out of GPU memory
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 32 core_dim = 32
+
+forward pass required 000387 MB of GPU memory
+backward pass required 000723 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 64 core_dim = 64
+
+forward pass required 000771 MB of GPU memory
+backward pass required 001443 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 128 core_dim = 128
+
+forward pass required 001539 MB of GPU memory
+backward pass required 002883 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 256 core_dim = 256
+
+forward pass required 003075 MB of GPU memory
+backward pass required 005763 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 512 core_dim = 512
+
+forward pass required 006147 MB of GPU memory
+backward pass required 011523 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 1024 core_dim = 1024
+
+forward pass required 012291 MB of GPU memory
+backward pass required 023043 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 2048 core_dim = 2048
+
+forward pass required 024579 MB of GPU memory
+error : out of GPU memory
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 4096 core_dim = 4096
+
+error : out of GPU memory
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 8192 core_dim = 8192
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 32 kv_len = 32 dim = 128 heads = 8
+
+forward pass required 000019 MB of GPU memory
+backward pass required 000032 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 64 kv_len = 64 dim = 128 heads = 8
+
+forward pass required 000035 MB of GPU memory
+backward pass required 000063 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 128 kv_len = 128 dim = 128 heads = 8
+
+forward pass required 000093 MB of GPU memory
+backward pass required 000173 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 256 kv_len = 256 dim = 128 heads = 8
+
+forward pass required 000305 MB of GPU memory
+backward pass required 000585 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 512 kv_len = 512 dim = 128 heads = 8
+
+forward pass required 001114 MB of GPU memory
+backward pass required 002177 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 128 heads = 8
+
+forward pass required 004269 MB of GPU memory
+backward pass required 008433 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 128 heads = 8
+
+forward pass required 016729 MB of GPU memory
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 128 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 128 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 32 kv_len = 32 dim = 128 heads = 8
+
+forward pass required 000015 MB of GPU memory
+backward pass required 000026 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 64 kv_len = 64 dim = 128 heads = 8
+
+forward pass required 000022 MB of GPU memory
+backward pass required 000036 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 128 kv_len = 128 dim = 128 heads = 8
+
+forward pass required 000038 MB of GPU memory
+backward pass required 000061 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 256 kv_len = 256 dim = 128 heads = 8
+
+forward pass required 000085 MB of GPU memory
+backward pass required 000137 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 512 kv_len = 512 dim = 128 heads = 8
+
+forward pass required 000234 MB of GPU memory
+backward pass required 000385 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 128 heads = 8
+
+forward pass required 000749 MB of GPU memory
+backward pass required 001265 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 128 heads = 8
+
+forward pass required 002649 MB of GPU memory
+backward pass required 004561 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 128 heads = 8
+
+forward pass required 009929 MB of GPU memory
+backward pass required 017297 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 128 heads = 8
+
+forward pass required 038409 MB of GPU memory
+error : out of GPU memory
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 32 kv_len = 32 dim = 128 core_dim = 128
+
+forward pass required 000007 MB of GPU memory
+backward pass required 000012 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 64 kv_len = 64 dim = 128 core_dim = 128
+
+forward pass required 000013 MB of GPU memory
+backward pass required 000023 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 128 kv_len = 128 dim = 128 core_dim = 128
+
+forward pass required 000025 MB of GPU memory
+backward pass required 000046 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 256 kv_len = 256 dim = 128 core_dim = 128
+
+forward pass required 000049 MB of GPU memory
+backward pass required 000091 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 512 kv_len = 512 dim = 128 core_dim = 128
+
+forward pass required 000097 MB of GPU memory
+backward pass required 000181 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 128 core_dim = 128
+
+forward pass required 000193 MB of GPU memory
+backward pass required 000361 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 128 core_dim = 128
+
+forward pass required 000385 MB of GPU memory
+backward pass required 000721 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 128 core_dim = 128
+
+forward pass required 000770 MB of GPU memory
+backward pass required 001442 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 128 core_dim = 128
+
+forward pass required 001539 MB of GPU memory
+backward pass required 002883 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 32 kv_len = 32 dim = 256 heads = 8
+
+forward pass required 000028 MB of GPU memory
+backward pass required 000040 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 64 kv_len = 64 dim = 256 heads = 8
+
+forward pass required 000050 MB of GPU memory
+backward pass required 000078 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 128 kv_len = 128 dim = 256 heads = 8
+
+forward pass required 000114 MB of GPU memory
+backward pass required 000202 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 256 kv_len = 256 dim = 256 heads = 8
+
+forward pass required 000346 MB of GPU memory
+backward pass required 000642 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 512 kv_len = 512 dim = 256 heads = 8
+
+forward pass required 001195 MB of GPU memory
+backward pass required 002290 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 256 heads = 8
+
+forward pass required 004430 MB of GPU memory
+backward pass required 008658 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 256 heads = 8
+
+forward pass required 017050 MB of GPU memory
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 256 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 256 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 32 kv_len = 32 dim = 256 heads = 8
+
+forward pass required 000021 MB of GPU memory
+backward pass required 000035 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 64 kv_len = 64 dim = 256 heads = 8
+
+forward pass required 000034 MB of GPU memory
+backward pass required 000054 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 128 kv_len = 128 dim = 256 heads = 8
+
+forward pass required 000061 MB of GPU memory
+backward pass required 000093 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 256 kv_len = 256 dim = 256 heads = 8
+
+forward pass required 000125 MB of GPU memory
+backward pass required 000193 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 512 kv_len = 512 dim = 256 heads = 8
+
+forward pass required 000314 MB of GPU memory
+backward pass required 000497 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 256 heads = 8
+
+forward pass required 000909 MB of GPU memory
+backward pass required 001489 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 256 heads = 8
+
+forward pass required 002969 MB of GPU memory
+backward pass required 005009 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 256 heads = 8
+
+forward pass required 010569 MB of GPU memory
+backward pass required 018193 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 256 heads = 8
+
+forward pass required 039689 MB of GPU memory
+error : out of GPU memory
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 32 kv_len = 32 dim = 256 core_dim = 256
+
+forward pass required 000013 MB of GPU memory
+backward pass required 000023 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 64 kv_len = 64 dim = 256 core_dim = 256
+
+forward pass required 000025 MB of GPU memory
+backward pass required 000046 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 128 kv_len = 128 dim = 256 core_dim = 256
+
+forward pass required 000049 MB of GPU memory
+backward pass required 000091 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 256 kv_len = 256 dim = 256 core_dim = 256
+
+forward pass required 000097 MB of GPU memory
+backward pass required 000181 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 512 kv_len = 512 dim = 256 core_dim = 256
+
+forward pass required 000193 MB of GPU memory
+backward pass required 000361 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 256 core_dim = 256
+
+forward pass required 000385 MB of GPU memory
+backward pass required 000721 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 256 core_dim = 256
+
+forward pass required 000769 MB of GPU memory
+backward pass required 001441 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 256 core_dim = 256
+
+forward pass required 001538 MB of GPU memory
+backward pass required 002882 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 256 core_dim = 256
+
+forward pass required 003075 MB of GPU memory
+backward pass required 005763 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 32 kv_len = 32 dim = 512 heads = 8
+
+forward pass required 000047 MB of GPU memory
+backward pass required 000064 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 64 kv_len = 64 dim = 512 heads = 8
+
+forward pass required 000085 MB of GPU memory
+backward pass required 000110 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 128 kv_len = 128 dim = 512 heads = 8
+
+forward pass required 000173 MB of GPU memory
+backward pass required 000262 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 256 kv_len = 256 dim = 512 heads = 8
+
+forward pass required 000429 MB of GPU memory
+backward pass required 000758 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 512 kv_len = 512 dim = 512 heads = 8
+
+forward pass required 001358 MB of GPU memory
+backward pass required 002518 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 512 heads = 8
+
+forward pass required 004753 MB of GPU memory
+backward pass required 009110 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 512 heads = 8
+
+forward pass required 017693 MB of GPU memory
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 512 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 512 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 32 kv_len = 32 dim = 512 heads = 8
+
+forward pass required 000033 MB of GPU memory
+backward pass required 000053 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 64 kv_len = 64 dim = 512 heads = 8
+
+forward pass required 000058 MB of GPU memory
+backward pass required 000090 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 128 kv_len = 128 dim = 512 heads = 8
+
+forward pass required 000109 MB of GPU memory
+backward pass required 000165 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 256 kv_len = 256 dim = 512 heads = 8
+
+forward pass required 000217 MB of GPU memory
+backward pass required 000321 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 512 kv_len = 512 dim = 512 heads = 8
+
+forward pass required 000474 MB of GPU memory
+backward pass required 000721 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 512 heads = 8
+
+forward pass required 001229 MB of GPU memory
+backward pass required 001937 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 512 heads = 8
+
+forward pass required 003609 MB of GPU memory
+backward pass required 005905 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 512 heads = 8
+
+forward pass required 011849 MB of GPU memory
+backward pass required 019985 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 512 heads = 8
+
+error : out of GPU memory
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 32 kv_len = 32 dim = 512 core_dim = 512
+
+forward pass required 000025 MB of GPU memory
+backward pass required 000046 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 64 kv_len = 64 dim = 512 core_dim = 512
+
+forward pass required 000049 MB of GPU memory
+backward pass required 000091 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 128 kv_len = 128 dim = 512 core_dim = 512
+
+forward pass required 000097 MB of GPU memory
+backward pass required 000181 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 256 kv_len = 256 dim = 512 core_dim = 512
+
+forward pass required 000193 MB of GPU memory
+backward pass required 000361 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 512 kv_len = 512 dim = 512 core_dim = 512
+
+forward pass required 000385 MB of GPU memory
+backward pass required 000721 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 512 core_dim = 512
+
+forward pass required 000769 MB of GPU memory
+backward pass required 001441 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 512 core_dim = 512
+
+forward pass required 001537 MB of GPU memory
+backward pass required 002881 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 512 core_dim = 512
+
+forward pass required 003074 MB of GPU memory
+backward pass required 005762 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 512 core_dim = 512
+
+forward pass required 006147 MB of GPU memory
+backward pass required 011523 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 32 kv_len = 32 dim = 1024 heads = 8
+
+forward pass required 000091 MB of GPU memory
+backward pass required 000119 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 64 kv_len = 64 dim = 1024 heads = 8
+
+forward pass required 000161 MB of GPU memory
+backward pass required 000205 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 128 kv_len = 128 dim = 1024 heads = 8
+
+forward pass required 000313 MB of GPU memory
+backward pass required 000389 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 256 kv_len = 256 dim = 1024 heads = 8
+
+forward pass required 000665 MB of GPU memory
+backward pass required 000997 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 512 kv_len = 512 dim = 1024 heads = 8
+
+forward pass required 001690 MB of GPU memory
+backward pass required 002981 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 1024 heads = 8
+
+forward pass required 005405 MB of GPU memory
+backward pass required 010021 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 1024 heads = 8
+
+forward pass required 018985 MB of GPU memory
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 1024 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 1024 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 32 kv_len = 32 dim = 1024 heads = 8
+
+forward pass required 000057 MB of GPU memory
+backward pass required 000089 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 64 kv_len = 64 dim = 1024 heads = 8
+
+forward pass required 000106 MB of GPU memory
+backward pass required 000162 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 128 kv_len = 128 dim = 1024 heads = 8
+
+forward pass required 000205 MB of GPU memory
+backward pass required 000309 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 256 kv_len = 256 dim = 1024 heads = 8
+
+forward pass required 000409 MB of GPU memory
+backward pass required 000609 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 512 kv_len = 512 dim = 1024 heads = 8
+
+forward pass required 000842 MB of GPU memory
+backward pass required 001233 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 1024 heads = 8
+
+forward pass required 001869 MB of GPU memory
+backward pass required 002833 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 1024 heads = 8
+
+forward pass required 004889 MB of GPU memory
+backward pass required 007697 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 1024 heads = 8
+
+forward pass required 014409 MB of GPU memory
+backward pass required 023569 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 1024 heads = 8
+
+error : out of GPU memory
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 32 kv_len = 32 dim = 1024 core_dim = 1024
+
+forward pass required 000049 MB of GPU memory
+backward pass required 000091 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 64 kv_len = 64 dim = 1024 core_dim = 1024
+
+forward pass required 000097 MB of GPU memory
+backward pass required 000181 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 128 kv_len = 128 dim = 1024 core_dim = 1024
+
+forward pass required 000193 MB of GPU memory
+backward pass required 000361 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 256 kv_len = 256 dim = 1024 core_dim = 1024
+
+forward pass required 000385 MB of GPU memory
+backward pass required 000721 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 512 kv_len = 512 dim = 1024 core_dim = 1024
+
+forward pass required 000769 MB of GPU memory
+backward pass required 001441 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 1024 core_dim = 1024
+
+forward pass required 001537 MB of GPU memory
+backward pass required 002881 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 1024 core_dim = 1024
+
+forward pass required 003073 MB of GPU memory
+backward pass required 005762 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 1024 core_dim = 1024
+
+forward pass required 006146 MB of GPU memory
+backward pass required 011522 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 1024 core_dim = 1024
+
+forward pass required 012291 MB of GPU memory
+backward pass required 023043 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 32 kv_len = 32 dim = 2048 heads = 8
+
+forward pass required 000203 MB of GPU memory
+backward pass required 000259 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 64 kv_len = 64 dim = 2048 heads = 8
+
+forward pass required 000337 MB of GPU memory
+backward pass required 000425 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 128 kv_len = 128 dim = 2048 heads = 8
+
+forward pass required 000617 MB of GPU memory
+backward pass required 000769 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 256 kv_len = 256 dim = 2048 heads = 8
+
+forward pass required 001225 MB of GPU memory
+backward pass required 001505 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 512 kv_len = 512 dim = 2048 heads = 8
+
+forward pass required 002634 MB of GPU memory
+backward pass required 003937 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 2048 heads = 8
+
+forward pass required 006733 MB of GPU memory
+backward pass required 011873 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 2048 heads = 8
+
+forward pass required 021593 MB of GPU memory
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 2048 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [NAIVE]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 2048 heads = 8
+
+error : out of GPU memory
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 32 kv_len = 32 dim = 2048 heads = 8
+
+forward pass required 000105 MB of GPU memory
+backward pass required 000161 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 64 kv_len = 64 dim = 2048 heads = 8
+
+forward pass required 000202 MB of GPU memory
+backward pass required 000306 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 128 kv_len = 128 dim = 2048 heads = 8
+
+forward pass required 000397 MB of GPU memory
+backward pass required 000597 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 256 kv_len = 256 dim = 2048 heads = 8
+
+forward pass required 000793 MB of GPU memory
+backward pass required 001185 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 512 kv_len = 512 dim = 2048 heads = 8
+
+forward pass required 001610 MB of GPU memory
+backward pass required 002385 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 2048 heads = 8
+
+forward pass required 003341 MB of GPU memory
+backward pass required 004881 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 2048 heads = 8
+
+forward pass required 007449 MB of GPU memory
+backward pass required 011281 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 2048 heads = 8
+
+forward pass required 019529 MB of GPU memory
+backward pass required 030737 MB of GPU memory
+
+
+SOFTMAX ATTENTION TEST [FLASH]
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 2048 heads = 8
+
+error : out of GPU memory
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 32 kv_len = 32 dim = 2048 core_dim = 2048
+
+forward pass required 000098 MB of GPU memory
+backward pass required 000182 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 64 kv_len = 64 dim = 2048 core_dim = 2048
+
+forward pass required 000194 MB of GPU memory
+backward pass required 000362 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 128 kv_len = 128 dim = 2048 core_dim = 2048
+
+forward pass required 000386 MB of GPU memory
+backward pass required 000722 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 256 kv_len = 256 dim = 2048 core_dim = 2048
+
+forward pass required 000770 MB of GPU memory
+backward pass required 001442 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 512 kv_len = 512 dim = 2048 core_dim = 2048
+
+forward pass required 001538 MB of GPU memory
+backward pass required 002882 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 1024 kv_len = 1024 dim = 2048 core_dim = 2048
+
+forward pass required 003074 MB of GPU memory
+backward pass required 005762 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 2048 kv_len = 2048 dim = 2048 core_dim = 2048
+
+forward pass required 006146 MB of GPU memory
+backward pass required 011522 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 4096 kv_len = 4096 dim = 2048 core_dim = 2048
+
+forward pass required 012290 MB of GPU memory
+backward pass required 023043 MB of GPU memory
+
+
+SOFTPLUS ATTENTION TEST
+bsz = 64 query_len = 8192 kv_len = 8192 dim = 2048 core_dim = 2048
+
+forward pass required 024579 MB of GPU memory
+error : out of GPU memory

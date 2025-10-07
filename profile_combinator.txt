@@ -1,0 +1,566 @@
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 512 dim = 32
+
+forward pass required 000025 MB of GPU memory
+backward pass required 000045 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 512 dim = 64
+
+forward pass required 000041 MB of GPU memory
+backward pass required 000073 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 512 dim = 128
+
+forward pass required 000073 MB of GPU memory
+backward pass required 000129 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 512 dim = 256
+
+forward pass required 000137 MB of GPU memory
+backward pass required 000242 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 512 dim = 512
+
+forward pass required 000267 MB of GPU memory
+backward pass required 000469 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 512 dim = 1024
+
+forward pass required 000529 MB of GPU memory
+backward pass required 000929 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 512 dim = 2048
+
+forward pass required 001065 MB of GPU memory
+backward pass required 001873 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 512 dim = 4096
+
+forward pass required 002185 MB of GPU memory
+backward pass required 003857 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 512 dim = 8192
+
+forward pass required 004617 MB of GPU memory
+backward pass required 008209 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 1024 dim = 32
+
+forward pass required 000041 MB of GPU memory
+backward pass required 000073 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 1024 dim = 64
+
+forward pass required 000073 MB of GPU memory
+backward pass required 000129 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 1024 dim = 128
+
+forward pass required 000137 MB of GPU memory
+backward pass required 000241 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 1024 dim = 256
+
+forward pass required 000265 MB of GPU memory
+backward pass required 000466 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 1024 dim = 512
+
+forward pass required 000523 MB of GPU memory
+backward pass required 000917 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 1024 dim = 1024
+
+forward pass required 001041 MB of GPU memory
+backward pass required 001825 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 1024 dim = 2048
+
+forward pass required 002089 MB of GPU memory
+backward pass required 003665 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 1024 dim = 4096
+
+forward pass required 004233 MB of GPU memory
+backward pass required 007441 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 1024 dim = 8192
+
+forward pass required 008713 MB of GPU memory
+backward pass required 015377 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 2048 dim = 32
+
+forward pass required 000073 MB of GPU memory
+backward pass required 000129 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 2048 dim = 64
+
+forward pass required 000137 MB of GPU memory
+backward pass required 000241 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 2048 dim = 128
+
+forward pass required 000265 MB of GPU memory
+backward pass required 000465 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 2048 dim = 256
+
+forward pass required 000521 MB of GPU memory
+backward pass required 000914 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 2048 dim = 512
+
+forward pass required 001035 MB of GPU memory
+backward pass required 001813 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 2048 dim = 1024
+
+forward pass required 002065 MB of GPU memory
+backward pass required 003617 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 2048 dim = 2048
+
+forward pass required 004137 MB of GPU memory
+backward pass required 007249 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 2048 dim = 4096
+
+forward pass required 008329 MB of GPU memory
+backward pass required 014609 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 2048 dim = 8192
+
+forward pass required 016905 MB of GPU memory
+backward pass required 029713 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 32 dim = 128
+
+forward pass required 000013 MB of GPU memory
+backward pass required 000024 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 64 dim = 128
+
+forward pass required 000017 MB of GPU memory
+backward pass required 000031 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 128 dim = 128
+
+forward pass required 000025 MB of GPU memory
+backward pass required 000045 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 256 dim = 128
+
+forward pass required 000041 MB of GPU memory
+backward pass required 000073 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 512 dim = 128
+
+forward pass required 000073 MB of GPU memory
+backward pass required 000129 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 1024 dim = 128
+
+forward pass required 000137 MB of GPU memory
+backward pass required 000241 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 2048 dim = 128
+
+forward pass required 000265 MB of GPU memory
+backward pass required 000465 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 4096 dim = 128
+
+forward pass required 000521 MB of GPU memory
+backward pass required 000913 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 8192 dim = 128
+
+forward pass required 001033 MB of GPU memory
+backward pass required 001809 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 32 dim = 256
+
+forward pass required 000017 MB of GPU memory
+backward pass required 000032 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 64 dim = 256
+
+forward pass required 000025 MB of GPU memory
+backward pass required 000046 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 128 dim = 256
+
+forward pass required 000041 MB of GPU memory
+backward pass required 000074 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 256 dim = 256
+
+forward pass required 000073 MB of GPU memory
+backward pass required 000130 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 512 dim = 256
+
+forward pass required 000137 MB of GPU memory
+backward pass required 000242 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 1024 dim = 256
+
+forward pass required 000265 MB of GPU memory
+backward pass required 000466 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 2048 dim = 256
+
+forward pass required 000521 MB of GPU memory
+backward pass required 000914 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 4096 dim = 256
+
+forward pass required 001033 MB of GPU memory
+backward pass required 001810 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 8192 dim = 256
+
+forward pass required 002057 MB of GPU memory
+backward pass required 003602 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 32 dim = 512
+
+forward pass required 000027 MB of GPU memory
+backward pass required 000049 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 64 dim = 512
+
+forward pass required 000043 MB of GPU memory
+backward pass required 000077 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 128 dim = 512
+
+forward pass required 000075 MB of GPU memory
+backward pass required 000133 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 256 dim = 512
+
+forward pass required 000139 MB of GPU memory
+backward pass required 000245 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 512 dim = 512
+
+forward pass required 000267 MB of GPU memory
+backward pass required 000469 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 1024 dim = 512
+
+forward pass required 000523 MB of GPU memory
+backward pass required 000917 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 2048 dim = 512
+
+forward pass required 001035 MB of GPU memory
+backward pass required 001813 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 4096 dim = 512
+
+forward pass required 002059 MB of GPU memory
+backward pass required 003605 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 8192 dim = 512
+
+forward pass required 004107 MB of GPU memory
+backward pass required 007189 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 32 dim = 1024
+
+forward pass required 000049 MB of GPU memory
+backward pass required 000089 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 64 dim = 1024
+
+forward pass required 000081 MB of GPU memory
+backward pass required 000145 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 128 dim = 1024
+
+forward pass required 000145 MB of GPU memory
+backward pass required 000257 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 256 dim = 1024
+
+forward pass required 000273 MB of GPU memory
+backward pass required 000481 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 512 dim = 1024
+
+forward pass required 000529 MB of GPU memory
+backward pass required 000929 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 1024 dim = 1024
+
+forward pass required 001041 MB of GPU memory
+backward pass required 001825 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 2048 dim = 1024
+
+forward pass required 002065 MB of GPU memory
+backward pass required 003617 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 4096 dim = 1024
+
+forward pass required 004113 MB of GPU memory
+backward pass required 007201 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 8192 dim = 1024
+
+forward pass required 008209 MB of GPU memory
+backward pass required 014369 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 32 dim = 2048
+
+forward pass required 000105 MB of GPU memory
+backward pass required 000193 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 64 dim = 2048
+
+forward pass required 000169 MB of GPU memory
+backward pass required 000305 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 128 dim = 2048
+
+forward pass required 000297 MB of GPU memory
+backward pass required 000529 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 256 dim = 2048
+
+forward pass required 000553 MB of GPU memory
+backward pass required 000977 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 512 dim = 2048
+
+forward pass required 001065 MB of GPU memory
+backward pass required 001873 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 1024 dim = 2048
+
+forward pass required 002089 MB of GPU memory
+backward pass required 003665 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 2048 dim = 2048
+
+forward pass required 004137 MB of GPU memory
+backward pass required 007249 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 4096 dim = 2048
+
+forward pass required 008233 MB of GPU memory
+backward pass required 014417 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 8192 dim = 2048
+
+forward pass required 016425 MB of GPU memory
+backward pass required 028753 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 32 dim = 4096
+
+forward pass required 000265 MB of GPU memory
+backward pass required 000497 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 64 dim = 4096
+
+forward pass required 000393 MB of GPU memory
+backward pass required 000721 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 128 dim = 4096
+
+forward pass required 000649 MB of GPU memory
+backward pass required 001169 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 256 dim = 4096
+
+forward pass required 001161 MB of GPU memory
+backward pass required 002065 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 512 dim = 4096
+
+forward pass required 002185 MB of GPU memory
+backward pass required 003857 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 1024 dim = 4096
+
+forward pass required 004233 MB of GPU memory
+backward pass required 007441 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 2048 dim = 4096
+
+forward pass required 008329 MB of GPU memory
+backward pass required 014609 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 4096 dim = 4096
+
+forward pass required 016521 MB of GPU memory
+backward pass required 028945 MB of GPU memory
+
+
+SOFTPLUS COMBINATOR TEST
+bsz = 64 query_len = 8192 dim = 4096
+
+forward pass required 032905 MB of GPU memory
+error : out of GPU memory
